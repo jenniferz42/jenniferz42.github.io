@@ -30,7 +30,7 @@ Released   : 20120712
 		<div id="wrapper">
 			<div id="header">
 				<div id="logo">
-					<h2><a href="index.html">Jennifer Zhu</a></h2>
+					<h1><a href="index.html">Jennifer Zhu</a></h1>
 				</div>
 				<div id="menu">
 					<ul>
@@ -45,13 +45,12 @@ Released   : 20120712
 				<div id="sidebar">
 					<div class="box">
 						
-					  <img class="center" src="images/pic3.png" width="242" height="323" alt="" title="Photo credits to Kari Eifler!" />
+					  <img class="center" src="images/pic.png" width="242" height="323" alt="" title="Photo credits to Kari Eifler!" />
 					  <br>
 					  <p style="text-align:center">
-					    OFFICE: Blocker 355D<br/>
-					    EMAIL: tamu.edu@jenniferz
+					    EMAIL: waterloo.ca@j446zhu
 					  <br/>
-					  Here is my <a href="cv-jenniferzhu-dec-2020.pdf">CV</a>.
+					  Here is my <a href="CV/jenniferz-cv-aug-2021.pdf">CV</a>.
 					  </p>
 					</div>
 				</div>
@@ -60,13 +59,13 @@ Released   : 20120712
 						<h2>HELLO</h2>
 						
 						<p>
-						  I am a second-year graduate student in the <a href="https://www.math.tamu.edu/" rel="nofollow">Department of Mathematics at Texas A&amp;M</a>. Pronouns are she/her; I am also a fan of using the singular they/them. I plan to eventually populate this site with relevant items.
+						  I am a second-year graduate student in the <a href="https://www.math.tamu.edu/" rel="nofollow">Department of Mathematics at Texas A&amp;M</a>. Pronouns are she/her; I am also a fan of using the singular they/them. I will eventually populate this page with relevant items.
 						</p>
 					</div>
 					<div class="box">
 						<h3>Research Interests</h3>
 						<p>
-						  Functional analysis, operator algebras.
+						  Operator algebras, quantum information theory.
 						</p>
 					</div>
 					<div class="box">

@@ -1,0 +1,136 @@
+%% start of file `template.tex'.
+%% Copyright 2006 - 2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex - project.org/lppl/.
+
+
+\documentclass[11pt,letterpaper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.81]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Jennifer}{Zhu}
+%\title{Curriculum Vit\ae}                               % optional, remove / comment the line if not wanted
+%\address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[phone]{Updated February 25,2021}
+%phone[mobile]{+1~(234)~567~890}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+%\phone[fixed]{+2~(345)~678~901}
+%\phone[fax]{+3~(456)~789~012}
+\email{jenniferz@tamu.edu}                               % optional, remove / comment the line if not wanted
+\homepage{www.math.tamu.edu/$\sim$jenniferz}                         % optional, remove / comment the line if not wanted
+%\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
+%\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
+%\social[github]{jdoe}                              % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+%\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+
+%custom commands
+\setlength{\hintscolumnwidth}{0.17\textwidth}
+\renewcommand*{\sectionfont}{\LARGE\mdseries\upshape}
+\newcommand{\doubleline}[4]{%
+	\cvitem{#1}{\textit{#2}}%
+	\cvitem{}{\begin{minipage}[t]{.7\maincolumnwidth}\raggedright{#3}\end{minipage}%
+				   \begin{minipage}[t]{.25\maincolumnwidth}\raggedleft\hintstyle{#4}	\end{minipage}}}
+\newcommand{\singleline}[3]{%
+	\cvitem{#1}{\begin{minipage}[t]{.7\maincolumnwidth}\raggedright{#2}\end{minipage}%
+				   \begin{minipage}[t]{.25\maincolumnwidth}\raggedleft\hintstyle{#3}\end{minipage}}}
+
+
+% -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+%            content
+% -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+% -  -  -  -  -        resume        -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+\makecvtitle
+
+\section{Education}
+\cventry{2015 - 2018}{Bachelor of Arts, Mathematics}{University of California, Berkeley}{}{}{}
+
+\section{Research Interests}
+\cvitem{}{Operator algebras.}
+
+\section{Papers}
+\cvitem{}{\textbf{The Bullet Problem with Discrete Speeds}. B. Dygert, M. Junge, C. Kinzel, A. Raymond, E. Slivken, J. Zhu. \textit{Electronic Communications in Probability}, Volume 24, Issue 27 (2019), pp. 1 - 11. (Result of a REU during 2016.).}
+
+\section{Talks}
+\doubleline{Oct 10, 2020}{\textit{What Can We See Through Our Hahn-Banach-ulars?}}{\textbf{A Gathering in Graduate Expository Mathematics (GIG'EM) Conference}}{Texas A\&M University (online)}
+
+\section{Awards}
+\singleline{2019 - 2022}{\textbf{R.E. Basye Graduate Merit Fellowship}}{Texas A\&M University}
+
+\section{Teaching}
+\singleline{Spring 2021}{\textbf{Recitations}, Math 152: Engineering Mathematics II}{Texas A\&M University}
+\singleline{Fall 2020}{\textbf{Recitations}, Math 147: Calculus I for Biological Sciences}{Texas A\&M University}
+
+\section{Service}
+
+\subsection{Leadership}
+\singleline{}{\textbf{American Mathematical Society (AMS) Graduate Student Chapter}}{Texas A\&M University}
+\singleline{}{\qquad Treasurer}{2020 - 2021}
+\cvitem{}{\textbf{TAMU Math Grad Diversity Committee}}
+\singleline{}{\qquad Vice President}{Spring 2021}
+\singleline{}{\qquad Committee Member}{Fall 2020}
+
+\subsection{Mentorship}
+\singleline{Fall 2020}{\textbf{Directed Reading Program (DRP) Mentor}}{Texas A\&M University}
+
+%\subsection{Outreach}
+
+\subsection{Conferences}
+\singleline{Fall 2020}{\textbf{Advocating for Students of Color}}{{AMS} (online)}
+\singleline{Nov 20 - 22, 2020}{\textbf{AMS paraDIGMS Fall Conference}}{IMSI (online)}
+
+\section{Workshops and Conferences Attended}
+\singleline{Nov 7 - 8, 2020}{\textbf{Brazos Analysis Seminar}}{Texas A\&M University (online)}
+\singleline{Oct 17 - 18, 2020}{\textbf{East Coast Operator Algebras Symposium (ECOAS)}} {University of Virginia (online)}
+\singleline{Jun 29 - Jul 19, 2020}{\textbf{Groundwork for Operator Algebras Lecture Series (GOALS)}}{University of Michigan (online)}
+
+
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+\end{document}
+
+
+%% end of file `template.tex'.
