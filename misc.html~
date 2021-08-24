@@ -40,7 +40,7 @@ Released   : 20120712
 				<div id="menu">
 					<ul>
 					  <li class="first"><a href="index.html">Home</a></li>
-					  <li class=""><a href="resources.html">Resources</a></li>
+					  <li class=""><a href="DEI.html">DEI</a></li>
 					  <li class="last active"><a href="misc.html">Misc</a></li>
 					</ul>
 					<br class="clearfix" />
@@ -49,10 +49,10 @@ Released   : 20120712
 			<div id="page">
 				<div id="content">
 					<div class="box">
-					<h2 class="title">Interests (unordered)</h2>
+					<h2 class="title">Interests</h2>
 			<div class="entry">
 				<ol>
-				  <li><a href="doge.jpg"><b> dog</a> (mine) </li>
+				  <li><a href="images/doge.jpg"><b> dog</a> (mine) </li>
 				  <li><a href="index.html"> math</a></li>
 				  <li><a href="https://sweets.seriouseats.com/2013/12/the-food-lab-the-best-chocolate-chip-cookies.html"> 21 point breakdown of a chocolate chip cookie</a></li>
 				</ol>
