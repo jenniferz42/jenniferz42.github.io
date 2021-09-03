@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 SEP 2021 08:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 SEP 2021 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1330,7 +1330,7 @@ Package rerunfilecheck Info: File `jenniferz-cv-aug-2021.out' has not changed.
 Here is how much of TeX's memory you used:
  28491 strings out of 493014
  525622 string characters out of 6133351
- 589131 words of memory out of 5000000
+ 589118 words of memory out of 5000000
  31594 multiletter control sequences out of 15000+600000
  61417 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1342,7 +1342,7 @@ ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/marv
 osym/marvosym.pfb>
-Output written on jenniferz-cv-aug-2021.pdf (3 pages, 137917 bytes).
+Output written on jenniferz-cv-aug-2021.pdf (3 pages, 137756 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
