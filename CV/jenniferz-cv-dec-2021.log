@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.24)  25 DEC 2021 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.24)  28 FEB 2022 12:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/jennifer/Documents/GitHub/jenniferz42.github.io/CV/jenniferz-cv-dec-2021.tex
-(/Users/jennifer/Documents/GitHub/jenniferz42.github.io/CV/jenniferz-cv-dec-2021.tex
+**/Users/jennifer/Documents/website/jenniferz42.github.io/CV/jenniferz-cv-dec-2021.tex
+(/Users/jennifer/Documents/website/jenniferz42.github.io/CV/jenniferz-cv-dec-2021.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (/Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2021-12-16 v2.3.0 modern curriculum vitae and letter document class
@@ -691,14 +691,14 @@ Package rerunfilecheck Info: File `jenniferz-cv-dec-2021.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25685 strings out of 480594
- 509180 string characters out of 2895268
+ 509188 string characters out of 2895268
  811105 words of memory out of 3000000
  43043 multiletter control sequences out of 15000+600000
  413278 words of font info for 88 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 129i,14n,122p,1076b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 129i,14n,122p,1077b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free0.enc} </Users/jennifer/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1095.pk>{/Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free1.enc}</Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmss10.pfb></Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmss12.pfb></Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmss17.pfb></Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on jenniferz-cv-dec-2021.pdf (3 pages, 130573 bytes).
+Output written on jenniferz-cv-dec-2021.pdf (3 pages, 130508 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
