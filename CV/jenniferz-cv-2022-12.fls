@@ -1,7 +1,7 @@
 PWD /Users/jennifer/Documents/website/jenniferz42.github.io/CV
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/jennifer/Documents/website/jenniferz42.github.io/CV/jenniferz-cv-dec-2021.tex
-OUTPUT jenniferz-cv-dec-2021.log
+INPUT /Users/jennifer/Documents/website/jenniferz42.github.io/CV/jenniferz-cv-2022-12.tex
+OUTPUT jenniferz-cv-2022-12.log
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/moderncv/moderncv.cls
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/moderncv/moderncv.cls
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/moderncv/moderncv.cls
@@ -82,6 +82,10 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
@@ -716,17 +720,17 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/gene
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -784,6 +788,41 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
@@ -796,15 +835,13 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref-langpatches.def
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
@@ -923,10 +960,10 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/gene
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
-INPUT ./jenniferz-cv-dec-2021.aux
-INPUT jenniferz-cv-dec-2021.aux
-INPUT jenniferz-cv-dec-2021.aux
-OUTPUT jenniferz-cv-dec-2021.aux
+INPUT ./jenniferz-cv-2022-12.aux
+INPUT jenniferz-cv-2022-12.aux
+INPUT jenniferz-cv-2022-12.aux
+OUTPUT jenniferz-cv-2022-12.aux
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmss10.tfm
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -947,55 +984,18 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
-INPUT ./jenniferz-cv-dec-2021.out
-INPUT jenniferz-cv-dec-2021.out
-INPUT ./jenniferz-cv-dec-2021.out
-INPUT jenniferz-cv-dec-2021.out
-INPUT ./jenniferz-cv-dec-2021.out
-INPUT jenniferz-cv-dec-2021.out
-INPUT ./jenniferz-cv-dec-2021.out
-INPUT jenniferz-cv-dec-2021.out
-OUTPUT jenniferz-cv-dec-2021.pdf
-INPUT ./jenniferz-cv-dec-2021.out
-INPUT ./jenniferz-cv-dec-2021.out
-OUTPUT jenniferz-cv-dec-2021.out
+INPUT ./jenniferz-cv-2022-12.out
+INPUT jenniferz-cv-2022-12.out
+INPUT ./jenniferz-cv-2022-12.out
+INPUT jenniferz-cv-2022-12.out
+INPUT ./jenniferz-cv-2022-12.out
+INPUT jenniferz-cv-2022-12.out
+INPUT ./jenniferz-cv-2022-12.out
+INPUT jenniferz-cv-2022-12.out
+OUTPUT jenniferz-cv-2022-12.pdf
+INPUT ./jenniferz-cv-2022-12.out
+INPUT ./jenniferz-cv-2022-12.out
+OUTPUT jenniferz-cv-2022-12.out
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmss10.tfm
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-cmr.cfg
@@ -1026,11 +1026,11 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1cmss.fd
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcss1095.tfm
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
-INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmss12.tfm
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmss8.tfm
-INPUT jenniferz-cv-dec-2021.aux
-INPUT ./jenniferz-cv-dec-2021.out
-INPUT ./jenniferz-cv-dec-2021.out
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmss12.tfm
+INPUT jenniferz-cv-2022-12.aux
+INPUT ./jenniferz-cv-2022-12.out
+INPUT ./jenniferz-cv-2022-12.out
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free0.enc
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1095.pk
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1095.pk
@@ -1049,3 +1049,5 @@ INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/ty
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi10.pfb
 INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi10.pfb
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/jennifer/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb

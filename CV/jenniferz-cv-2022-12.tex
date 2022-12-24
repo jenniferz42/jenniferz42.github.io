@@ -19,7 +19,7 @@
 %\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
 
 % adjust the page margins
-\usepackage[scale=0.81]{geometry}
+\usepackage[scale=0.85]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
 %\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
@@ -53,12 +53,14 @@
 %custom commands
 \setlength{\hintscolumnwidth}{0.14\textwidth}
 \renewcommand*{\sectionfont}{\LARGE\mdseries\upshape}
-\newcommand{\doubleline}[4]{%
-	\cvitem{#1}{\begin{minipage}[t]{.75\maincolumnwidth}\raggedright{#2}\end{minipage}%
-    \begin{minipage}[t]{.25\maincolumnwidth}\raggedleft\hintstyle{#3}	\end{minipage}}%
-	\cvitem{}{\begin{minipage}[t]{.75\maincolumnwidth}\raggedright{#4}	\end{minipage}}}
+\renewcommand*{\subsectionfont}{\Large\mdseries\upshape}
+\newcommand{\doubleline}[4]
+	{\cvitem{#1}
+		{\begin{minipage}[t]{.7\maincolumnwidth}\raggedright{#2}\end{minipage}%
+    	\begin{minipage}[t]{.25\maincolumnwidth}\raggedleft\hintstyle{#3}	\end{minipage}}%
+	\cvitem{}{\begin{minipage}[t]{.7\maincolumnwidth}\raggedright{#4}	\end{minipage}}}
 \newcommand{\singleline}[3]{%
-	\cvitem{#1}{\begin{minipage}[t]{.75\maincolumnwidth}\raggedright{#2}\end{minipage}%
+	\cvitem{#1}{\begin{minipage}[t]{.7\maincolumnwidth}\raggedright{#2}\end{minipage}%
 				   \begin{minipage}[t]{.25\maincolumnwidth}\raggedleft\hintstyle{#3}\end{minipage}}}
 
 
@@ -73,6 +75,7 @@
 \section{Education}
 \cventry{2021 - present}{PhD, Pure Mathematics - Quantum Information}{University of Waterloo}{}{}{}
 \cventry{2019 - 2021}{PhD, Mathematics}{Texas A\&M University}{}{}{}
+\singleline{}{(transferred to University of Waterloo in September 2021)}{}
 \cventry{2014 - 2018}{Bachelor of Arts, Mathematics}{University of California, Berkeley}{}{}{}
 
 \section{Research Interests}
@@ -82,63 +85,99 @@
 \cvitem{}{\textbf{The Bullet Problem with Discrete Speeds}. B. Dygert, M. Junge, C. Kinzel, A. Raymond, E. Slivken, J. Zhu. \textit{Electronic Communications in Probability}, Volume 24, Issue 27 (2019), pp. 1 - 11. (Result of a REU during 2016.).}
 
 \section{Talks}
+\doubleline{Dec 9, 2022}{\textbf{Approximate Representations}}{KU Leuven}{\textit{Operator Algebras Seminar}}
 \doubleline{Jun 25, 2021}{\textbf{Mermin-Peres Magic Square Game}}{Texas A\&M University}{\textit{Texas A\&M REU: Graduate Student Talks}}
 \doubleline{Oct 10, 2020}{\textbf{What Can We See Through Our Hahn-Banach-ulars?}}{Texas A\&M University}{\textit{A Gathering in Graduate Expository Mathematics (GIG'EM) Conference}}
 
 \section{Awards}
+\doubleline{Fall 2022}{\textbf{David Johnston International Experience Awards}}{University of Waterloo}{\$2500; non-recurring}
 \doubleline{Winter 2022}{\textbf{Cotton Family Women in Mathematics Graduate Scholarship}}{University of Waterloo}{\$1500; non-recurring}
 \doubleline{2021}{\textbf{Provost Doctoral Entrance Award for Women}}{University of Waterloo}{\$2500; non-recurring}
 \doubleline{2019 - 2021}{\textbf{R.E. Basye Graduate Merit Fellowship}}{Texas A\&M University}{\$32,000 stipend the first year with no duties, additional \$7800 per year for five years}
 
 
 \section{Teaching}
-\doubleline{Fall 2021}{\textbf{Grader}, Math 116, Math 117}{University of Waterloo}{}
-\doubleline{Spring 2021}{\textbf{Recitations}, Math 152: Engineering Mathematics II (4.23/5)}{Texas A\&M University}{Proctored and graded tests, created review material based on lecture notes, answered questions in class, by email, and via Piazza. Rating based on fostering an effective learning environment, effectiveness of teaching methods, helpfulness of online materials.}
-\doubleline{Fall 2020}{\textbf{Recitations}, Math 147: Calculus I for Biological Sciences (3.96/5)}{Texas A\&M University}{Proctored and graded tests, created review material based on lecture notes, answered questions in class and by email. Rating based on fostering an effective learning environment.}
+\doubleline{Fall 2022}{\textbf{Grader}, Math 674: Fractals \\
+\textbf{Grader}, Math 647: Foundations of Calculus 1 for Teachers}{University of Waterloo}{}
+\doubleline{Winter 2022}{\textbf{Teaching Assistant} for PMath 451/651: Measure Theory}{University of Waterloo}{\begin{itemize}
+\item Graded assignments.
+\item Answered questions via Piazza.
+\end{itemize}}
+\doubleline{Fall 2021}{\textbf{Grader}, Math 116: Calculus 1 for Engineering \\
+\textbf{Grader}, Math 117: Calculus 1 for Engineering}{University of Waterloo}{}
+\doubleline{Spring 2021}{\textbf{Recitations}, Math 152: Engineering Mathematics II}{Texas A\&M University}{
+\begin{itemize}
+	\item Rating: 4.23/5. Rating based on fostering an effective learning environment, effectiveness of teaching methods, helpfulness of online materials.
+	\item Proctored and graded tests.
+	\item Created review material based on lecture notes.
+	\item Answered questions in class, by email, and via Piazza. 
+\end{itemize}}
+\doubleline{Fall 2020}{\textbf{Recitations}, Math 147: Calculus I for Biological Sciences}{Texas A\&M University}{
+	\begin{itemize}
+		\item Rating: 3.96/5. Rating based on fostering an effective learning environment, effectiveness of teaching methods, helpfulness of online materials.
+		\item Proctored and graded tests.
+		\item Created review material based on lecture notes.
+		\item Answered questions in class, by email. 
+	\end{itemize}}
 
 \section{Service}
 
-\subsection{Conferences}
-\singleline{Fall 2020}{\textbf{Advocating for Students of Color}}{AMS}
-\singleline{Nov 20 - 22, 2020}{\textbf{AMS paraDIGMS Fall Conference}}{IMSI}
+\subsection{Conferences/Workshops}
+\doubleline{Aug 27, 2021}{\textbf{Mentorship Training: Diversity, Equity, and Inclusion}}{OAMN}
+{\begin{itemize} \item Workshop led by Dr. Chandra Erdman and Erin Brown highlighting how mentors can use their advantages to mitigate disadvantages mentees might face.\end{itemize}}
+\singleline{Fall 2020}{\textbf{Advocating for Students of Color Webinar}\\ \begin{itemize} \item A four-part webinar for faculty and administrators who are actively engaged in promoting equity, diversity, and inclusion within the mathematical sciences focused on implementing pragmatic and meaningful changes. \end{itemize}}{American Mathematical Society (AMS)}
+\singleline{Nov 2020}{\textbf{AMS paraDIGMS Fall Conference} \\ \begin{itemize} \item A conference highlighting the work of organizations that have built a diverse and equitable profession through graduate education \end{itemize}}{Institute for Mathematical and Statistical Innovation (IMSI)}
 
 \subsection{Leadership}
-\doubleline{}{\textbf{American Mathematical Society Grad Student Chapter}}{Texas A\&M University}{\qquad 2020 - 2021: Treasurer}
-\doubleline{}{\textbf{Institute of Quantum Computing Community Committee}}{University of Waterloo}{\qquad Winter 2022: Member}
-\doubleline{}{\textbf{TAMU Math Graduate Student Diversity Committee}}{Texas A\&M University}{\qquad Spring 2021: Vice President \\ \qquad Fall 2020: Co-founder}
-
+\singleline{Winter 2021 - present}
+	{{\textbf{\href{https://oamentornetwork.wordpress.com/}{\underline{Operator Algebras Mentor Network} (OAMN)}} } \\
+		\vspace{5 pt}
+		\begin{itemize}
+		\item Spring 2022 $-$ present: Member of the Board of Directors of OAMN. 
+		\item Winter 2021: Co-Treasurer.
+		\end{itemize}}{}
+\doubleline{Winter 2022}{\textbf{Institute of Quantum Computing (IQC) Community Committee}}{University of Waterloo}{\begin{itemize} \item Member \end{itemize}}
+\doubleline{2020-2021}{\textbf{TAMU Math Graduate Student Diversity Committee}}{Texas A\&M University}{\begin{itemize}\item  Spring 2021: Vice President \item Fall 2020: Co-founder \end{itemize}}
+\doubleline{2020-2021}{\textbf{American Mathematical Society Graduate Student Chapter}}{Texas A\&M University}{\begin{itemize} \item Treasurer\end{itemize}}
+\vspace{10 pt}
 \subsection{Mentorship}
-\doubleline{}{\textbf{Directed Reading Program (DRP) Mentor}}{Texas A\&M University}
-{\qquad Fall 2020: Guided an undergraduate through applications of \\ \qquad \quad linear algebra to mathematical biology.}{}
-
+\doubleline{Spring 2022}{\textbf{Directed Reading Program (DRP) Mentor and Co-Founder}}{University of Waterloo}{\begin{itemize}
+	\item Co-organized the first Directed Reading Program at University of Waterloo
+	\item Mentored two undergraduates in introductory game theory.
+\end{itemize}}
+\doubleline{Fall 2020}{\textbf{Directed Reading Program (DRP) Mentor}}{Texas A\&M University}
+{\begin{itemize}
+	\item Guided an undergraduate through applications of linear algebra to mathematical biology.
+\end{itemize}}{}
+\vspace{10 pt}
 \subsection{Membership}
-\doubleline{}{\textbf{\href{https://oamentornetwork.wordpress.com/}{\underline{Operator Algebras Mentor Network} (OAMN)}} }{}{\qquad Spring 2020 - present: Mentee}
-
+\singleline{Spring 2020 - present}{\textbf{\href{https://oamentornetwork.wordpress.com/}{\underline{Operator Algebras Mentor Network} (OAMN)}} \\ \vspace{5 pt} \begin{itemize}\item Spring 2020 - present: Mentee \end{itemize}}{}
+\vspace{10 pt}
 \subsection{Outreach}
-\doubleline{Spring 2021}{\textbf{Math/Stats Fair Volunteer}}{Texas A\&M University}{}
+\doubleline{Spring 2021}{\textbf{Math/Stats Fair}}{Texas A\&M University}{\begin{itemize} \item Volunteer.  \end{itemize}}
 
 \section{Workshops Attended}
+\singleline{Fall 2022}{\textbf{Focus Semester on Quantum Information}\\ \begin{itemize} \item A series of lectures delivered by 16 experts in quantum information from the perspectives of mathematics, physics, and computer science. \end{itemize}}{Universit\"at des Saarlandes}
 
-\doubleline{August 27, 2021}{\textbf{OAMN Mentorship Training: Diversity, Equity, and Inclusion}}{}
-{Workshop led by Dr. Chandra Erdman and Erin Brown highlighting how mentors can use their advantages to mitigate disadvantages mentees might face.}
-\doubleline{June 21 - July 30, 2021}{\textbf{Math-to-Industry Boot Camp}}{IMA, University of Minnesota}
-{\begin{itemize}
-\item Intense six-week program providing PhD students in mathematics necessary skills to work outside of academia.
-\item Took short courses on Python, R, data analysis, machine learning, stochastic modeling, optimization.
-\item Participated in team and leadership building exercises.
-\item Worked in a team to predict energy generated by hydroelectric dams in Brazil using Github to share code and data.
-\end{itemize}}
-\doubleline{Jun 29 - Jul 19, 2020}{\textbf{\href{https://users.math.msu.edu/users/banelson/conferences/GOALS.html}{\underline{Groundwork for Operator Algebras Lecture Series}} (GOALS)}}{University of Michigan}
-{Workshop consisting of lectures, problem sessions, and talks introducing graduate students to operator algebras.}
+\singleline{July 11-15, 2022}{\textbf{Knottawa Summer School}\\ \begin{itemize} \item A series of mini-courses: Planar Algebras and Subfactors by Emily Peters, K-Theory by Jos\'e Carrion, and Quantum Information Thoery by Roy Araiza. \end{itemize}}{Kansas State University}
+
+\singleline{Jun 21 - Jul 30, 2021}{\textbf{Math-to-Industry Boot Camp} \\ \begin{itemize}
+	\item Intense six-week program providing PhD students in mathematics necessary skills to work outside of academia.
+	\item Took short courses on Python, R, data analysis, machine learning, stochastic modeling, optimization.
+	\item Participated in team and leadership building exercises.
+	\item Worked in a team to predict energy generated by hydroelectric dams in Brazil using Github to share code and data.
+	\end{itemize}}{IMA, University of Minnesota}
+\singleline{Jun 29 - Jul 19, 2020}{\textbf{\href{https://users.math.msu.edu/users/banelson/conferences/GOALS.html}{\underline{Groundwork for Operator Algebras Lecture Series}} (GOALS)} \\ 
+\begin{itemize} \item Workshop consisting of lectures, problem sessions, and talks introducing graduate students to operator algebras.\end{itemize}}{University of Michigan}
 
 
 
 % Publications from a BibTeX file without multibib
 %  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
 %  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
-\nocite{*}
-\bibliographystyle{plain}
-\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{publications}                        % 'publications' is the name of a BibTeX file
 
 % Publications from a BibTeX file using the multibib package
 %\section{Publications}
